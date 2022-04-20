@@ -1,0 +1,28 @@
+body{
+    background-color: black
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Ephesis&display=swap');
+
+.text-muted {
+    color:white !important;
+}
+div.footer{
+    background-color: darkgrey !important;
+    padding:0;
+}
+.row{
+    margin:5%;
+    padding-top:5%;
+   
+}
+div.card-body ul li{
+    text-align: center;
+    color: white;
+    list-style: none;
+}
+.card-title{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}

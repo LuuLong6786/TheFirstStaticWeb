@@ -1,0 +1,41 @@
+body{
+    background-color:black;
+}
+.row img{
+    padding-bottom:10%
+}
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Ephesis&display=swap');
+div.text1 {
+    padding: 4% 0;
+    font-family: 'Bonheur Royale', cursive;
+    text-align: center;
+    color: rgb(35, 156, 11);
+    font-size:25px;
+}
+h4{
+    text-align: center;
+    color: rgb(167, 86, 20);
+    font-family: 'Bonheur Royale', cursive;
+    font-weight: bold;
+    margin: 4% 0;
+    font-size:25px;
+}
+h3{
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(212, 236, 75);
+    width: 100%;
+}
+.text-muted {
+    color:white !important;
+}
+div.footer{
+    background-color: darkgrey !important;
+    padding:0;
+}
+video{
+    padding:0;
+}
+ img:hover{
+    background-color: darkorange;
+    width: 100%;
+}

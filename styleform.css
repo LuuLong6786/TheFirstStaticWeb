@@ -1,0 +1,14 @@
+body{
+    background-image: url(image/muidinh\ \(2\).JPG);
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Ephesis&display=swap');
+
+.text-muted {
+    color:white !important;
+}
+
+div.form{
+    margin: 5%;
+}
